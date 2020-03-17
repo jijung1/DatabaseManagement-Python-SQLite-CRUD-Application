@@ -1,1 +1,2 @@
-# DatabaseManagement-Python-SQLite-CRUD-Application
+# DatabaseManagement Python SQLite CRUD Console Application
+#Jin Jung
