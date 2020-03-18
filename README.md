@@ -1,8 +1,8 @@
 **DatabaseManagement Python SQLite CRUD Console Application** <br/>
-*Jin Jung* 
-*SID 2329401*
-*CPSC 408-01*
-*Assignment 2*
+*Jin Jung* <br/>
+*SID 2329401* <br/>
+*CPSC 408-01* <br/>
+*Assignment 2* <br/>
 
 **Program Description | Remarks:** <br/>
   
@@ -23,5 +23,5 @@ isDeleted bit or boolean
 ```
 
 **References:** <br/>
-  *https://pandas.pydata.org/docs/reference/frame.html*
-  *https://docs.python.org/2/library/sqlite3.html*
+  *https://pandas.pydata.org/docs/reference/frame.html* <br/>
+  *https://docs.python.org/2/library/sqlite3.html* <br/>
